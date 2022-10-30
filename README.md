@@ -1,1 +1,1 @@
-un proiect test pentru familiarizarea ci Git & GitHub 
+un proiect test pentru familiarizarea cu Git & GitHub 
